@@ -3,7 +3,7 @@ Tata - Data Visualisation: Empowering Business with Effective Insights Job Simul
 
 Power BI Dashboard 
 https://github.com/vikasverma929/Tata---Data-Visualisation-Internship-Project-/blob/main/TATA.pbix
-<img width="1325" height="742" alt="Screenshot 2025-12-16 080549" src= />
+<img width="1325" height="742" alt="Screenshot 2025-12-16 080549" src= "https://github.com/vikasverma929/Tata---Data-Visualisation-Internship-Project-/blob/main/Screenshot%202026-10-15%20170247.png" />
 
 
 Here:-
